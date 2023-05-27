@@ -1,0 +1,10 @@
+git init: Crea e inicializa un nuevo repositorio.
+git add: Incluye los cambios realizados al stage para incluirlos en el commit.
+git commit -m: Guarda los cambios del stage en el respositorio
+git pull: Comando para traer los cambios que se hacen en el repositorio remoto.
+git push: Comando para enviar los cambios que se hacen en el repositorio local al remoto.
+git log: Comando para ver el historial de commit de nuestro repositorio.
+git status: comando para revisar el estado de los archivos en el repositorio.
+git branch: Comando para crear más ramas dentro de nuestro repositorio.
+git checkout: Comando para cambiar de rama dentro de nuestro repositorio.
+git clone: Comando para clonar el repositorio de github a nuestro equipo.
